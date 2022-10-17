@@ -1,0 +1,13 @@
+@media screen and (max-width: 600px)
+{
+    body{
+        background-color:lemonchiffon;
+    }
+}
+
+@media screen and (min-width: 600px)
+{
+    body{
+        background-color:rgb(164, 198, 250);
+    }
+}
